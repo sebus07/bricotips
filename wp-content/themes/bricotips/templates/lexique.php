@@ -15,7 +15,7 @@ get_header();
 <section>
         <div class="mot">
             <div class="titre">
-                Abattant.
+                Abattant
                 <div class="action">
                     <div class="down">&#9660;</div>
                     <div class="up">&#9650;</div>
@@ -27,7 +27,7 @@ get_header();
         </div>
         <div class="mot">
             <div class="titre">
-                Apprêt
+                Apprêt.
                 <div class="action">
                     <div class="down">&#9660;</div>
                     <div class="up">&#9650;</div>
